@@ -1,16 +1,19 @@
-## Hi there 👋
+![](https://i.ibb.co/Q39F641W/phizy-banner.png)
+# Hi there 👋 I'm Phizy
 
-<!--
-**phizyts/phizyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer who enjoys building clean, efficient, and scalable applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** TypeScript, Java
+- **Frameworks:** React, Next.js, Express.js
+- **Tools:** Git, Docker, VSCode, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phizyts&show_icons=true&hide_title=true&hide=stars&theme=default)
+
+## 📫 How to reach me
+[Email](mailto:email@phizy.dev) • [Website](https://phizy.dev)
+
+---
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House

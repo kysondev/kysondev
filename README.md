@@ -1,5 +1,5 @@
-![](https://i.ibb.co/Q39F641W/phizy-banner.png)
-# Hi there 👋 I'm Phizy
+![](https://i.ibb.co/VYqC6P71/kysonbanner.png)
+# Hi there 👋 I'm Kyson
 
 I'm a web developer who enjoys building clean, efficient, and scalable applications.
 
@@ -9,10 +9,10 @@ I'm a web developer who enjoys building clean, efficient, and scalable applicati
 - **Tools:** Git, Docker, VSCode, Postman
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phizyts&show_icons=true&hide_title=true&hide=stars&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kysondev&show_icons=true&hide_title=true&hide=stars&theme=dark)
 
 ## 📫 How to reach me
-[Email](mailto:email@phizy.dev) • [Website](https://phizy.dev)
+[Email](mailto:email@kyson.dev) • [Website](https://kyson.dev)
 
 ---
 

@@ -3,10 +3,14 @@
 
 I'm a web developer who enjoys building clean, efficient, and scalable applications.
 
-## 🔧 Technologies & Tools
-- **Languages:** TypeScript, Java
-- **Frameworks:** React, Next.js, Express.js
-- **Tools:** Git, Docker, VSCode, Postman
+## 🛠️ Tech Stack
+- **Framework:** Next.js
+- **Languages:** TypeScript
+- **Databases:** PostgreSQL, Redis
+- **ORM/Query Builders:** Prisma, Kysely
+- **Authentication:** Better Auth
+- **Validation:** Zod
+- **Tools:** VSCode
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kysondev&show_icons=true&hide_title=true&hide=stars&theme=dark)

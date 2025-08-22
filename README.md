@@ -13,7 +13,7 @@ I'm a web developer who enjoys building clean, efficient, and scalable applicati
 - **Tools:** VSCode
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kysondev&show_icons=true&hide_title=true&hide=stars&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kysondev&show_icons=true&hide_title=true&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kysondev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kysondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

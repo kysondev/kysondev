@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/VYqC6P71/kysonbanner.png)
 # Hi there 👋 I'm Kyson
 
-I'm a web developer who enjoys building clean, efficient, and scalable applications.
+I’m a 17-year old developer and founder of Clami.app. I focus on building clean, efficient, and scalable web applications using tools like TypeScript, Next.js, and PostgreSQL. Right now, I’m learning more about modern web frameworks, databases, and how to ship projects that people actually use.
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js

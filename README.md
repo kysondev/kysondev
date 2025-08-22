@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/VYqC6P71/kysonbanner.png)
 # Hi there 👋 I'm Kyson
 
-I’m a 17-year old developer and founder of Clami.app. I focus on building clean, efficient, and scalable web applications using tools like TypeScript, Next.js, and PostgreSQL. Right now, I’m learning more about modern web frameworks, databases, and how to ship projects that people actually use.
+I’m a 17 years old developer and founder of Clami.app. I focus on building clean, efficient, and scalable web applications using tools like TypeScript, Next.js, and PostgreSQL. Right now, I’m learning more about modern web frameworks, databases, and how to ship projects that people actually use.
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js
@@ -10,7 +10,7 @@ I’m a 17-year old developer and founder of Clami.app. I focus on building clea
 - **ORM/Query Builders:** Prisma, Kysely
 - **Authentication:** Better Auth
 - **Validation:** Zod
-- **Tools:** VSCode
+- **Tools:** VSCode, Figma, Docker
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kysondev&show_icons=true&hide_title=true&theme=dark)<br/>

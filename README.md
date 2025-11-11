@@ -17,6 +17,8 @@ I’m a 17 years old developer and founder of Felinify.com. I focus on building 
 ![](https://nirzak-streak-stats.vercel.app/?user=kysondev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kysondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=kysondev&style=for-the-badge)
+
 ## 📫 How to reach me
 [Email](mailto:email@kyson.dev) • [Website](https://kyson.dev)
 

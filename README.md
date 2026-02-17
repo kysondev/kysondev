@@ -13,9 +13,7 @@ I’m a 17 years old developer and founder of Felinify.com. I focus on building 
 - **Tools:** VSCode, Figma, Docker
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kysondev&show_icons=true&hide_title=true&theme=dark)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kysondev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kysondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=kysondev&theme=dark&hide_border=true)<br/>
 
 ![](https://komarev.com/ghpvc/?username=kysondev&style=for-the-badge)
 

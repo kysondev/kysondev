@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Shijun (Kyson)
-**📍 New York City | 🚀 Founder @ [Felinify](https://felinify.com/) and [Birthdate](https://birthdate.io/) | CS @ Stony Brook (Fall 2026)**
+# 👋 Hi, I’m Kyson (Shijun)
+**📍 New York City | 🚀 Founder @ [Felinify](https://felinify.com/) and [Birthdate](https://birthdate.io/) | CS @ Stony Brook University**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
